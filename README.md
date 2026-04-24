@@ -9,10 +9,11 @@ Linear regression analysis revealed a weak but statistically significant positiv
 
 
 ### How to run the code
-- **schools_on_nutrislice.ipynp** Uses Selenium webdriver to look up which schools in Pennsylvania are on Nutrislice.
-- **building_API_links.ipynp** Builds custom API links for each school menu.
-- **Scraping_nutrislice.ipynp** Scrapes Nutrislice menus for each school using the custom API links
-- **School_analysis.ipynp** Analysis of school lunch data is conducted here
+🍎 **schools_on_nutrislice.ipynp** Uses Selenium webdriver to look up which schools in Pennsylvania are on Nutrislice.
+🍎 **building_API_links.ipynp** Builds custom API links for each school menu.
+🍎 **Scraping_nutrislice.ipynp** Scrapes Nutrislice menus for each school using the custom API links
+🍎 **School_analysis.ipynp** Analysis of school lunch data is conducted here
 
 
 ### EDA
+![Word Cloud of Entrees](Wordclouds%20and%20Plots/entree_wordcloud.png)
